@@ -6,7 +6,7 @@ During my AICTE internship, I developed a Sustainable Supply Chain Performance D
 
 The dashboard was designed to track and monitor sustainability KPIs (Key Performance Indicators) across the supply chain, enabling stakeholders to make data-driven decisions. The project was hosted on GitHub to showcase my work, collaborate with peers, and contribute to the open-source community.
 
-
+							
 
 
 

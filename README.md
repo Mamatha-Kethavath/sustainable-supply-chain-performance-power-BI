@@ -11,6 +11,8 @@ The dashboard was designed to track and monitor sustainability KPIs (Key Perform
 
 
 
+
+
 Key Features of the Dashboard
 
 
@@ -23,6 +25,8 @@ Key Features of the Dashboard
 -Waste generation and recycling rates.
 
 -Water usage and conservation efforts.
+
+
 
 
 
@@ -52,6 +56,8 @@ Supply Chain Efficiency:
 
 
 
+
+
 Economic Performance:
 
 -Cost savings from sustainable practices.
@@ -67,6 +73,8 @@ Economic Performance:
 -Drill-down capabilities for detailed analysis.
 
 -Filters for region, supplier, product category, and time period.
+
+
 
 
 
@@ -90,6 +98,8 @@ Tools and Technologies Used
 
 
 
+
+
 Steps to Create the Dashboard
 
 
@@ -101,11 +111,13 @@ Ensured data accuracy and consistency.
 
 
 
+
 -Data Cleaning and Transformation:
 
 Used Power Query in Power BI to clean and transform raw data.
 
 Handled missing values, duplicates, and outliers.
+
 
 
 
@@ -117,6 +129,7 @@ Defined calculated columns and measures using DAX (Data Analysis Expressions).
 
 
 
+
 -Dashboard Design:
 
 Designed a user-friendly interface with a focus on sustainability themes (e.g., green and blue color schemes).
@@ -125,11 +138,14 @@ Added interactive elements like slicers, tooltips, and bookmarks.
 
 
 
+
 -Deployment and Sharing:
 
 Published the dashboard to Power BI Service for easy access.
 
 Shared the GitHub repository with the AICTE internship team for feedback and collaboration.
+
+
 
 
 
@@ -146,6 +162,8 @@ Learning Outcomes
 -Learned to integrate sustainability concepts with supply chain management.
 
 -Enhanced collaboration and version control skills using GitHub.
+
+
 
 
 

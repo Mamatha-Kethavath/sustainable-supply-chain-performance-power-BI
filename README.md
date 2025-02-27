@@ -15,6 +15,7 @@ Key Features of the Dashboard
 -Water usage and conservation efforts.
 
 
+
 Supply Chain Efficiency:
 
 -On-time delivery performance.
@@ -24,6 +25,7 @@ Supply Chain Efficiency:
 -Fair labor practices and compliance.
 -Diversity and inclusion metrics.
 -Community engagement and impact.
+
 
 
 Economic Performance:
@@ -37,12 +39,14 @@ Economic Performance:
 -Filters for region, supplier, product category, and time period.
 
 
+
 Tools and Technologies Used
 
 -Power BI: For creating interactive dashboards and visualizations.
 -Excel: For data cleaning and preprocessing.
 -SQL: For querying and managing large datasets.
 -GitHub: For version control, collaboration, and hosting the project repository.
+
 
 
 Steps to Create the Dashboard
@@ -67,7 +71,7 @@ Added interactive elements like slicers, tooltips, and bookmarks.
 Published the dashboard to Power BI Service for easy access.
 Shared the GitHub repository with the AICTE internship team for feedback and collaboration.
 
-week 1 :
+
 
 Learning Outcomes
 
@@ -75,6 +79,8 @@ Learning Outcomes
 -Improved skills in data cleaning, modeling, and analysis.
 -Learned to integrate sustainability concepts with supply chain management.
 -Enhanced collaboration and version control skills using GitHub.
+
+
 
 Future Enhancements
 
